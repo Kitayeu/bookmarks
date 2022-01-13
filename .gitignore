@@ -139,3 +139,6 @@ dmypy.json
 cython_debug/
 
 media/
+
+cert.crt
+cert.key
