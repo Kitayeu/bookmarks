@@ -142,3 +142,5 @@ media/
 
 cert.crt
 cert.key
+
+add_info.py
